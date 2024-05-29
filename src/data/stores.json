@@ -1,0 +1,98 @@
+[
+    {
+      "id": 1,
+      "name": "Starbucks - Kültür",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud",
+      "working_hours": "10.00 - 00.00",
+      "address": "Lorem ipsum dolor",
+      "products": [
+        {
+          "id": 10,
+          "img": "/kahve.jpg",
+          "name": "Caramel Macchiato",
+          "price": 15,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "nutritional_values": {
+            "calories": 250,
+            "fat": 10,
+            "sugar": 20
+          }
+        },
+        {
+          "id": 12,
+          "img": "/kahve.jpg",
+          "name": "Cappuccino",
+          "price": 10,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "nutritional_values": {
+            "calories": 250,
+            "fat": 10,
+            "sugar": 20
+          }
+        },
+        {
+          "id": 13,
+          "img": "/kahve.jpg",
+          "name": "Espresso",
+          "price": 5,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "nutritional_values": {
+            "calories": 250,
+            "fat": 10,
+            "sugar": 20
+          }
+        },
+        {
+          "id": 14,
+          "img": "/kahve.jpg",
+          "name": "Espresso",
+          "price": 5,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "nutritional_values": {
+            "calories": 250,
+            "fat": 10,
+            "sugar": 20
+          }
+        },
+        {
+          "id": 15,
+          "img": "/kahve.jpg",
+          "name": "Espresso",
+          "price": 5,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "nutritional_values": {
+            "calories": 250,
+            "fat": 10,
+            "sugar": 20
+          }
+        },
+        {
+          "id": 16,
+          "img": "/kahve.jpg",
+          "name": "Espresso",
+          "price": 5,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "nutritional_values": {
+            "calories": 250,
+            "fat": 10,
+            "sugar": 20
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "TechHive",
+      "description": "Your tech destination for gadgets and electronics.",
+      "working_hours": " 11:00 AM - 11:00 PM",
+      "address": "456 Elm St, City, State, ZIP"
+    },
+    {
+      "id": 3,
+      "name": "FashionEmporium",
+      "description": "Your fashion haven for trendy outfits.",
+      "working_hours": " 11:00 AM - 11:00 PM",
+      "address": "789 Oak St, City, State, ZIP"
+    }
+  ]
+  
